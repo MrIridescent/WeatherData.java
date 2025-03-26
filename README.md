@@ -3,7 +3,7 @@
 ## Project Overview
 
 **Goal:**  
-Develop a Java-based desktop application that provides real-time weather updates for a user-specified location. The application leverages a weather API (e.g., OpenWeatherMap or Weatherstack) to fetch current weather details and features a user-friendly GUI built with Java Swing.
+I have Developed a Java-based desktop application that provides real-time weather updates for a user-specified location. The application leverages a weather API (e.g., OpenWeatherMap or Weatherstack) to fetch current weather details and features a user-friendly GUI built with Java Swing.
 
 ## Core Features
 
